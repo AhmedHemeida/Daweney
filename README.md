@@ -16,12 +16,12 @@ Details :
 
 # Backend : Node js , express js  , mongo db 
 ## Authentication & Authoriaztion :  
-### Oauth 2 | Nodemailer --> for sending verification code to gmail account 
+### Oauth 2 | Nodemailer for sending verification code to gmail account 
 ### Google Passport to login with google account directly 
 ### jwt for more security
 ## Validation : using Joi Library
 ## database  : mongo db with mongoose 
 ## Design pattern : MVC
 ## for real time : Socket io will update soon :)
-##for pay : paypal 
+## for pay : paypal 
 
