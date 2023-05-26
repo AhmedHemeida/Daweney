@@ -14,14 +14,14 @@ Some people have difficulty finding a nurse or a doctor to take care of them dur
 
 Details : 
 
-Backend : Node js , express js  , mongo db 
-Authentication & Authoriaztion :  
-**Oauth 2 | Nodemailer --> for sending verification code to gmail account 
-Google Passport to login with google account directly 
-jwt for more security**
-Validation : **using Joi Library**
-database  : mongo db with mongoose 
-Design pattern : **MVC**
-for real time : Socket io **will update soon :)**
-for pay : paypal 
+# Backend : Node js , express js  , mongo db 
+# Authentication & Authoriaztion :  
+# # Oauth 2 | Nodemailer --> for sending verification code to gmail account 
+# # Google Passport to login with google account directly 
+# jwt for more security
+# Validation : using Joi Library
+# database  : mongo db with mongoose 
+# Design pattern : MVC
+# for real time : Socket io will update soon :)
+# for pay : paypal 
 
