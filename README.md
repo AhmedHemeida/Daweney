@@ -9,3 +9,19 @@ Some people have difficulty finding a nurse or a doctor to take care of them dur
 (i) approach and tools/techniques In order to make it more flexible and easier for the patient, so that he can reach us easily, we designed a website that can be accessed through the browser and an application that can be accessed from the store
 
 (ii) overview of system modules There are two types of application, an application for the patient and an application for the nurse or doctor. The patient application helps the patient to request the service. So we come to the role of the nurse. The service will reach him. Either I reject it or he accepts it. If he accepts, he communicates with the patient and performs the service. And he can control it
+
+-----------------------------------------------------------------------------------------
+
+Details : 
+
+Backend : Node js , express js  , mongo db 
+Authentication & Authoriaztion :  
+**Oauth 2 | Nodemailer --> for sending verification code to gmail account 
+Google Passport to login with google account directly 
+jwt for more security**
+Validation : **using Joi Library**
+database  : mongo db with mongoose 
+Design pattern : **MVC**
+for real time : Socket io **will update soon :)**
+for pay : paypal 
+
