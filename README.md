@@ -23,8 +23,5 @@ Details :
 ## database  : mongo db with mongoose 
 ## Design pattern : MVC
 ----------------
-## for real time : Socket io  
-## for pay : paypal 
-### will update soon :)
--------------------
+
 
