@@ -33,6 +33,10 @@ There are **two main applications** in the system:
 
 - **Backend**:  
   - `Node.js`, `Express.js`, `MongoDB`
+    
+- **Frontend**:  
+  - `React.js`, `Bootstrap.js`   
+    
 
 - **Authentication & Authorization**:  
   - `OAuth 2.0`  
