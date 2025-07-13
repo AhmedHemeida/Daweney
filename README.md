@@ -21,12 +21,13 @@ To ensure accessibility and convenience, we developed both a **web application**
 There are **two main applications** in the system:
 
 1. **Patient Application**  
-   - Allows users to browse services and request care.  
+   - Allows users to browse services and request care.
+   - Can accept or reject requests from provider's application. 
    - Enables secure communication and payment after selecting a provider.
 
 2. **Service Provider Application (Nurse/Doctor)**  
    - Receives service requests.  
-   - Can accept or reject requests.  
+   - Can apply for patient's requests.  
    - Communicates directly with the patient to provide the required care.
 
 ## 🧱 Technical Details
